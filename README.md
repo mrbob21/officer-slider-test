@@ -1,2 +1,2 @@
-# swiper-test
- Trying to create a responsive image slider with swiper.js
+Officer Slider Test for Folding for Good Website
+Trying to create a responsive image slider template
